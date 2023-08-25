@@ -7,8 +7,11 @@ Use the Mobile class to design a composite class for Mobile Phone Inventory.<br>
 The Inventory class should have a <b>dynamic array</b> to store information of ‘N’ mobile phones. The value of ‘N’ is to be taken by the user at run time. <br> 
 Implement a <b>friend function</b> of the Inventory class to compare the specifications of all the mobile phones in the inventory array and recommend the best mobile phone to the user. This function should use the operator overloaded function of the Mobile class for the comparison of two mobile phones.
 <br>
+Draw a composite <b>UML class diagram</b> first and then convert it into C++ code. <br>
 This program utilizes the following concepts:<br>
 Abstraction<br>Encapsulation<br>Composition<br>Operator Overloading<br>friend Function<br>
+
+<br><br> <b>Note:</b> UML of this class has also been uloaded in this repository
 
 
 
